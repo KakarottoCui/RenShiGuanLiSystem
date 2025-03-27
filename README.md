@@ -1,6 +1,6 @@
 # 人事管理系统
 
-项目视频演示：https://live.csdn.net/v/181195
+项目视频演示：https://www.bilibili.com/video/BV1Sb4y1f7SE/
 
 功能介绍：部门管理、角色管理、员工管理、招聘管理、公告管理、在线聊天等功能
 
